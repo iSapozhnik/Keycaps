@@ -1,5 +1,5 @@
 
-# KeycapView
+# ⌨️ KeycapView
 
 KeycapView is a customizable SwiftUI component for creating keycap-like UI elements with support for images, text, dynamic sizes, and skewed perspective.
 
