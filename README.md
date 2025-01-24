@@ -2,6 +2,7 @@
 # ⌨️ KeycapView
 
 KeycapView is a customizable SwiftUI component for creating keycap-like UI elements with support for images, text, dynamic sizes, and skewed perspective.
+Inspired by the [MacOS Keystroke Generator](https://www.figma.com/community/file/1243912940361668224/macos-keystroke-generator) Figma design.
 
 ![keycaps](./Assets/keycaps.png)
 
